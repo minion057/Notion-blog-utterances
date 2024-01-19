@@ -1,2 +1,2 @@
-# morethan-log-utterances
+# jeonghyeon-log-utterances
 utterances dedicated repository
