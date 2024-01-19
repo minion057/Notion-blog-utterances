@@ -1,2 +1,2 @@
-# jeonghyeon-log-utterances
+# jeonghyeon tech blog
 utterances dedicated repository
