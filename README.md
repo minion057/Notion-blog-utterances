@@ -1,2 +1,2 @@
-# morethan-log-utterances-
+# morethan-log-utterances
 utterances dedicated repository
